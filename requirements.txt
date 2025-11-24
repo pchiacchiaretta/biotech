@@ -7,9 +7,9 @@ sympy
 pandas
 scikit-learn
 # nel coso si usino dati veri e non simulati
-#pysam      # per BAM/CRAM/VCF
-#cyvcf2     # per leggere VCF molto più grandi
-#biopython  # opzionale, funzioni FASTA/FASTQ
-#seaborn       # per grafici più complessi (opzionale)
-#pybedtools    # per operazioni su BED
-#pyopenms      # accesso a mzML / mzXML
+# pysam      # per BAM/CRAM/VCF
+# cyvcf2     # per leggere VCF molto più grandi
+# biopython  # opzionale, funzioni FASTA/FASTQ
+# seaborn       # per grafici più complessi (opzionale)
+# pybedtools    # per operazioni su BED
+# pyopenms      # accesso a mzML / mzXML
